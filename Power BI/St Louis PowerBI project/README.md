@@ -1,12 +1,13 @@
 # St Louis Online Computer Devices & Accessories Dashboard w/ Power BI
-![Dashboard Page 1](/St%20Louis%20PowerBI%20project/images/Powerbi_visualization.png)
+![Dashboard Page 1](/Power%20BI/St%20Louis%20PowerBI%20project/images/Powerbi_visualization.png)
+
 📊 View interactive dashboard here on the Power BI Service
 
 ## Introduction
 This dashboard was created for Cruz Adams, Marketing Manager at St. Louis Online Computer Devices & Accessories, to solve a critical business question: **do customers shop the site on mobile devices more than desktops at specific times of the day?** Using e-commerce performance data categorized by day periods, this project provides a clear visual interface to analyze device preferences across time segments and optimize marketing campaigns accordingly.
 
 ## Dashboard File
-You can find the file for the dashboard here: [St_Louis_Sales_Dashboard](/St%20Louis%20PowerBI%20project/reports/St%20Loius.pbix)
+You can find the file for the dashboard here: [St_Louis_Sales_Dashboard](/Power%20BI/St%20Louis%20PowerBI%20project/reports/St%20Loius.pbix)
 
 ## Skills Showcased
 This project was a journey through key Power BI features. Here's a look at what we mastered:

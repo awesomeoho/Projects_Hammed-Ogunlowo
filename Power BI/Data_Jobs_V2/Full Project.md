@@ -1,6 +1,6 @@
 # Data Jobs Dashboard with PowerBI
 
-![Dashboard Page 1](/Images/Project%201%20page%201.png)
+![Dashboard Page 1](/Power%20BI/Data_Jobs_V2/Images/Project%201%20page%202.png)
 
 
 ## Introduction 
@@ -33,12 +33,12 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
 ### Page 1: High-Level Market View 
 
-![Dashboard Page 1](/Images/Project%201%20page%201.png)
+![Dashboard Page 1](/Power%20BI/Data_Jobs_V2/Images/Project%201%20page%201.png)
 
 This is your mission control for the data job market. It showcases key KPIs like total Job Count, Median Salaries, and top Job Titles to give you a quick understanding of what is happening in the job market at a glance. 
 
 
-![Dashboard Page 1](/Images/Project%201%20page%202.png)
+![Dashboard Page 2](/Power%20BI/Data_Jobs_V2/Images/Project%201%20page%202.png)
 
 This is a deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, inclulding salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations. 
 
